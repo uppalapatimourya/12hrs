@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(24) rotate(90)">
+    <g id="arrow-forward">
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="24" height="24" transform="translate(24) rotate(90)" fill="#ff7261" opacity="0"/>
+      <path id="Path_3" data-name="Path 3" d="M1,6H12.86L9.23,1.641A1,1,0,0,1,10.77.361l5,6a1.19,1.19,0,0,1,.09.15c0,.05.05.08.07.13a.961.961,0,0,1,0,.72c0,.05-.05.08-.07.13a1.19,1.19,0,0,1-.09.15l-5,6a1,1,0,1,1-1.54-1.28L12.86,8H1A1,1,0,0,1,1,6Z" transform="translate(4 4.999)" fill="#ff7261"/>
+    </g>
+  </g>
+</svg>

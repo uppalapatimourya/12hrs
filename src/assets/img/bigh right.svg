@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <g id="bigh_right" data-name="bigh right" transform="translate(41.779 0.221) rotate(90)">
+    <g id="arrow-forward">
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="42" height="42" transform="translate(41.779 -0.221) rotate(90)" fill="#ff6e00" opacity="0"/>
+      <path id="Path_3" data-name="Path 3" d="M1.732,10.392H22.268l-6.286-7.55A1.734,1.734,0,0,1,18.649.626l8.658,10.389a2.06,2.06,0,0,1,.156.26c0,.087.087.139.121.225a1.664,1.664,0,0,1,0,1.247c0,.087-.087.139-.121.225a2.06,2.06,0,0,1-.156.26L18.649,23.621A1.734,1.734,0,1,1,15.982,21.4l6.286-7.55H1.732a1.732,1.732,0,0,1,0-3.463Z" transform="translate(6.926 8.656)" fill="#ff6e00"/>
+    </g>
+  </g>
+</svg>
