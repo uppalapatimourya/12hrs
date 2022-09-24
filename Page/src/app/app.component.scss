@@ -184,4 +184,16 @@ opacity: 1;
 }
 .btn:hover{
 background-color: #FF6E00 !important;
+color: white !important;
 }
+.col-sm-2{
+  margin:5px;
+}
+.card {
+  
+  margin:5px;
+  padding: 5px;
+}
+.container { position: relative; }
+.container img { display: block; }
+// .container .fa-download { position: absolute; bottom:-250px; left:250px; }
